@@ -1,0 +1,374 @@
+CRITICAL - 2025-07-31 17:39:57 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:41:58 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:41:59 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:41:59 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:00 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:00 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:00 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:00 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:01 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:01 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:01 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:01 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:01 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:02 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:02 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:02 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:02 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:03 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:03 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:03 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:03 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:04 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:04 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:42:04 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:44:29 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_NONE
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:45:53 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:47:22 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:21 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:22 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:22 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:22 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:22 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:22 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:25 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:26 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:26 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:53:26 --> TypeError: CodeIgniter\Router\RouteCollection::__construct(): Argument #3 ($routing) must be of type Config\Routing, null given, called in /var/www/html/vendor/codeigniter4/framework/system/Config/Services.php on line 622
+[Method: GET, Route: /]
+in SYSTEMPATH/Router/RouteCollection.php on line 280.
+ 1 SYSTEMPATH/Config/Services.php(622): CodeIgniter\Router\RouteCollection->__construct(Object(CodeIgniter\Autoloader\FileLocator), Object(Config\Modules), null)
+ 2 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::routes(false)
+ 3 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('routes', [...])
+ 4 SYSTEMPATH/Config/Services.php(619): CodeIgniter\Config\BaseService::getSharedInstance('routes')
+ 5 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::routes()
+ 6 SYSTEMPATH/Config/BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('routes', [])
+ 7 SYSTEMPATH/Common.php(995): CodeIgniter\Config\BaseService::get('routes')
+ 8 SYSTEMPATH/CodeIgniter.php(821): service('routes')
+ 9 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 17:54:11 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH/Config/Kint.php on line 38.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(498): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH/Boot.php(331): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH/Boot.php(57): CodeIgniter\Boot::initializeKint()
+ 4 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

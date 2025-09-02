@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>Production Deployment Guide (Docker)</title>
+  <style>
+    body { font-family: sans-serif; margin: 2em; }
+    code, pre { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; }
+    pre { padding: 1em; }
+    h1 { color: #2c3e50; }
+    h2 { color: #34495e; }
+  </style>
+</head>
+<body>
+  <h1>Production Deployment Guide (Docker)</h1>
+
+  <h2>1. Build Docker Image</h2>
+  <pre><code>docker build -f Dockerfile.prod -t myapp-prod .</code></pre>
+  <ul>
+    <li>เปลี่ยน <code>myapp-prod</code> เป็นชื่อ image ที่ต้องการ</li>
+  </ul>
+
+  <h2>2. Run Docker Container</h2>
+  <pre><code>docker run -d --name myapp-prod -p 8080:80 myapp-prod</code></pre>
+  <ul>
+    <li><code>-d</code> : รันแบบ detached</li>
+    <li><code>--name myapp-prod</code> : ตั้งชื่อ container</li>
+    <li><code>-p 8080:80</code> : map port 80 ใน container ไปที่ 8080 บนเครื่อง</li>
+  </ul>
+
+  <h2>3. ตรวจสอบการทำงาน</h2>
+  <p>เปิดเบราว์เซอร์ไปที่ <a href="http://localhost:8080" target="_blank">http://localhost:8080</a></p>
+
+  <hr>
+  <h3>หมายเหตุ</h3>
+  <ul>
+    <li>ถ้าใช้ฐานข้อมูล MySQL ใน Docker ด้วย ให้เชื่อมต่อ network เดียวกัน หรือใช้ docker-compose</li>
+    <li>ถ้าต้องการ mount ไฟล์ <code>.env</code> หรือโฟลเดอร์ writable เพิ่ม option <code>-v</code> ตามต้องการ</li>
+    <li>สำหรับ production จริง ควรตั้งค่า environment variable หรือไฟล์ <code>.env</code> ให้เหมาะสม</li>
+  </ul>
+      <h1>Running Docker Containers without Docker Compose</h1>
+    <p>This guide outlines the steps to manually build, network, and run the application and database containers.</p>
+
+    <h2>Step 1: Build Docker Images</h2>
+    <p>First, build the Docker images from their respective Dockerfiles.</p>
+    <p><strong>Application Image (<code>Dockerfile.prod</code>):</strong></p>
+    <pre><code>docker build -t my-prod-app -f Dockerfile.prod .</code></pre>
+    <p><strong>Database Image (<code>Dockerfile.db</code>):</strong></p>
+    <pre><code>docker build -t my-prod-db -f Dockerfile.db .</code></pre>
+
+    <h2>Step 2: Create a Docker Network</h2>
+    <p>Create a dedicated network for the containers to communicate with each other.</p>
+    <pre><code>docker network create my-app-network</code></pre>
+
+    <h2>Step 3: Run the Database Container</h2>
+    <p>Start the database container and connect it to the created network.</p>
+    <pre><code>docker run -d \
+    --name my-db-container \
+    --network my-app-network \
+    -e MYSQL_ROOT_PASSWORD=root \
+    -e MYSQL_DATABASE=sc_short_courses \
+    -e MYSQL_USER=ci_user \
+    -e MYSQL_PASSWORD=ci_pass \
+    -v ./db-init:/docker-entrypoint-initdb.d \
+    -p 3306:3306 \
+    my-prod-db</code></pre>
+
+    <h2>Step 4: Run the Application Container</h2>
+    <p>Start the application container, connecting it to the same network.</p>
+    <pre><code>docker run -d \
+    --name my-app-container \
+    --network my-app-network \
+    -p 8080:80 \
+    -v .:/var/www/html \
+    my-prod-app</code></pre>
+
+    <h2>Step 5: Configure CodeIgniter Database</h2>
+    <p>Finally, update the database configuration in your CodeIgniter application to point to the database container.</p>
+    <ul>
+        <li><strong>File:</strong> <code>app/Config/Database.php</code></li>
+        <li><strong>Setting:</strong> <code>public string $hostname</code></li>
+        <li><strong>Value:</strong> <code>'my-db-container'</code> (The name of the database container)</li>
+    </ul>
+    <pre><code>// app/Config/Database.php
+public string $hostname = 'my-db-container';</code></pre>
+</body>
+</html>
+
+
+

@@ -1,0 +1,11 @@
+# Use the official MySQL image
+FROM mysql:latest
+
+# Set environment variables for database creation
+ENV MYSQL_DATABASE=sc_short_courses
+ENV MYSQL_USER=ci_user
+ENV MYSQL_PASSWORD=ci_pass
+ENV MYSQL_ROOT_PASSWORD=ci_pass
+
+# Copy the initialization script to the container
+COPY ./db-init/sc_short_courses.sql /docker-entrypoint-initdb.d/

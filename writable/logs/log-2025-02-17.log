@@ -1,0 +1,888 @@
+CRITICAL - 2025-02-17 21:25:17 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456
+expr 892853448 + 813544971
+', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:18 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('${883437983+993981442}', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:18 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456|expr 800218421 + 811959771 ', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:19 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456$(expr 924596283 + 883048795)', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:20 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456&set /A 853701720+947778353', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:23 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('expr 864167755 + 812197541', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:27 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '${800962275+867347270}', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:28 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '${@var_dump(md5(831727486))};')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:29 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '\'-var_dump(md5(614725203))-\'')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:43 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '${950594372+857691957}')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:58 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'and/**/extractvalue(1,concat(char(126),md5(1282717664)))and\'')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:25:59 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456"and/**/extractvalue(1,concat(char(126),md5(1986053773)))and"')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:01 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('${@var_dump(md5(491718358))};', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:01 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', 'extractvalue(1,concat(char(126),md5(1057615646)))')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:03 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '/*1*/{{859499037+966309636}}')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:03 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('\'-var_dump(md5(910000087))-\'', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:03 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'and(select\'1\'from/**/cast(md5(1800254596)as/**/int))>\'0')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:03 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '${890676728+836218327}')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:08 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and/**/cast(md5(\'1726266362\')as/**/int)>0')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:08 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '${(962995421+944051413)?c}')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:10 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', 'convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1091860548\')))')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:10 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '#set($c=801116938+952030711)${c}$c')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:11 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'and/**/convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1159751837\')))>\'0')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:11 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '<%- 955008772+853835520 %>')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:13 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456鎈\'"\\(')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:14 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '/*1*/{{816939430+911932582}}', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:14 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '${@var_dump(md5(810788938))};', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:15 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'"\\(')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:15 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '${810180495+979438756}', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:17 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '\'-var_dump(md5(620759946))-\'', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:18 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '${(842673232+981701471)?c}', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:20 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '#set($c=811640147+803030202)${c}$c', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:20 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456
+expr 918954856 + 949851408
+')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:21 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '<%- 954929869+988053125 %>', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:21 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456|expr 915453092 + 897456681 ')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:22 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456$(expr 933318432 + 892663449)')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:22 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456&set /A 978195312+855585400')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:23 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', 'expr 945580689 + 892494476')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:25 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('/*1*/{{964890852+806586710}}', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:25 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('${890874215+950766224}', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:26 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('${(893524161+817827637)?c}', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:26 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('#set($c=813204533+924927853)${c}$c', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:29 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('<%- 822598425+860864405 %>', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:29 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456
+expr 873550169 + 812264868
+', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:30 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456|expr 833542598 + 861780600 ', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:30 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456$(expr 856999031 + 954317194)', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:31 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456&set /A 883354433+839605944', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:26:33 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', 'expr 941622404 + 997778769', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:11 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and+0=0', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:11 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and+3=9', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:12 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '(select*from(select+sleep(0)union/**/select+1)a)', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:12 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '(select*from(select+sleep(4)union/**/select+1)a)', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:12 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'and(select*from(select+sleep(0))a/**/union/**/select+1)=\'', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:13 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'and(select*from(select+sleep(4))a/**/union/**/select+1)=\'', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:13 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'and/**/extractvalue(1,concat(char(126),md5(1461039655)))and\'', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:13 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456"and(select*from(select+sleep(0))a/**/union/**/select+1)="', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:13 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456"and/**/extractvalue(1,concat(char(126),md5(1799770572)))and"', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:14 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('extractvalue(1,concat(char(126),md5(1192532709)))', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:14 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456"and(select*from(select+sleep(4))a/**/union/**/select+1)="', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:14 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and(select+1/**/from/**/pg_sleep(0))>0/**/', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:14 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'and(select\'1\'from/**/cast(md5(1820170109)as/**/int))>\'0', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:14 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and/**/cast(md5(\'1406041062\')as/**/int)>0', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:15 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and(select+1/**/from/**/pg_sleep(4))>0/**/', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:15 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1392252299\')))', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:15 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'/**/and(select\'1\'from/**/pg_sleep(0))::text>\'0', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:15 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'and/**/convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1485743986\')))>\'0', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:15 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'/**/and(select\'1\'from/**/pg_sleep(4))::text>\'0', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:16 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456鎈\'"\\(', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:16 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'"\\(', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:16 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and(select+1)>0waitfor/**/delay\'0:0:0\'/**/', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:17 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and(select+1)>0waitfor/**/delay\'0:0:4\'/**/', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:17 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'and(select+1)>0waitfor/**/delay\'0:0:0', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:18 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'and(select+1)>0waitfor/**/delay\'0:0:4', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:18 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and/**/2=DBMS_PIPE.RECEIVE_MESSAGE(\'x\',0)', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:18 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and/**/0=DBMS_PIPE.RECEIVE_MESSAGE(\'k\',4)', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:19 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE(\'h\',0)=\'h', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:19 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE(\'d\',4)=\'d', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:20 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and+1=1', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:20 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and+4=5', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:21 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('(select*from(select+sleep(0)union/**/select+1)a)', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:21 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('(select*from(select+sleep(4)union/**/select+1)a)', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:21 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'and(select*from(select+sleep(0))a/**/union/**/select+1)=\'', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:22 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'and(select*from(select+sleep(4))a/**/union/**/select+1)=\'', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:22 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456"and(select*from(select+sleep(0))a/**/union/**/select+1)="', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:22 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456"and(select*from(select+sleep(4))a/**/union/**/select+1)="', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:23 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and(select+1/**/from/**/pg_sleep(0))>0/**/', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:23 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and(select+1/**/from/**/pg_sleep(4))>0/**/', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:24 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'/**/and(select\'1\'from/**/pg_sleep(0))::text>\'0', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:25 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'/**/and(select\'1\'from/**/pg_sleep(4))::text>\'0', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:25 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and(select+1)>0waitfor/**/delay\'0:0:0\'/**/', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:25 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and(select+1)>0waitfor/**/delay\'0:0:4\'/**/', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:25 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'and(select+1)>0waitfor/**/delay\'0:0:0', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:26 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'and(select+1)>0waitfor/**/delay\'0:0:4', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:26 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and/**/1=DBMS_PIPE.RECEIVE_MESSAGE(\'h\',0)', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:26 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456/**/and/**/1=DBMS_PIPE.RECEIVE_MESSAGE(\'v\',4)', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:26 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE(\'d\',0)=\'d', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:27 --> checkdate(): Argument #1 ($month) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456\'/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE(\'y\',4)=\'y', '123456', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:28 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'and/**/extractvalue(1,concat(char(126),md5(1356221271)))and\'', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:29 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456"and/**/extractvalue(1,concat(char(126),md5(1571145901)))and"', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:29 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', 'extractvalue(1,concat(char(126),md5(1531950953)))', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:29 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'and(select\'1\'from/**/cast(md5(1416184309)as/**/int))>\'0', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:29 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456/**/and/**/cast(md5(\'1484260910\')as/**/int)>0', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:29 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', 'convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1373888107\')))', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:30 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'and/**/convert(int,sys.fn_sqlvarbasetostr(HashBytes(\'MD5\',\'1439378817\')))>\'0', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:30 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456鎈\'"\\(', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:30 --> checkdate(): Argument #2 ($day) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456\'"\\(', '123456')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:31 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and+1=1')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:31 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and+3=6')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:31 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '(select*from(select+sleep(0)union/**/select+1)a)')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:31 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '(select*from(select+sleep(4)union/**/select+1)a)')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:31 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'and(select*from(select+sleep(0))a/**/union/**/select+1)=\'')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:31 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'and(select*from(select+sleep(4))a/**/union/**/select+1)=\'')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:31 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456"and(select*from(select+sleep(0))a/**/union/**/select+1)="')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:32 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456"and(select*from(select+sleep(4))a/**/union/**/select+1)="')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:32 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and(select+1/**/from/**/pg_sleep(0))>0/**/')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:32 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and(select+1/**/from/**/pg_sleep(4))>0/**/')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:32 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'/**/and(select\'1\'from/**/pg_sleep(0))::text>\'0')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:32 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'/**/and(select\'1\'from/**/pg_sleep(4))::text>\'0')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:32 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and(select+1)>0waitfor/**/delay\'0:0:0\'/**/')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:33 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and(select+1)>0waitfor/**/delay\'0:0:4\'/**/')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:33 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'and(select+1)>0waitfor/**/delay\'0:0:0')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:33 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'and(select+1)>0waitfor/**/delay\'0:0:4')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:33 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and/**/1=DBMS_PIPE.RECEIVE_MESSAGE(\'k\',0)')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:33 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456/**/and/**/2=DBMS_PIPE.RECEIVE_MESSAGE(\'i\',4)')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:33 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE(\'x\',0)=\'x')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:28:34 --> checkdate(): Argument #3 ($year) must be of type int, string given
+in APPPATH\Controllers\Authorization.php on line 118.
+ 1 APPPATH\Controllers\Authorization.php(118): checkdate('123456', '123456', '123456\'/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE(\'k\',4)=\'k')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signup()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,426 @@
+ERROR - 2025-08-19 08:34:42 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/var/www/html/v...', 201)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#4 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#6 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#7 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#6 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:246
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#5 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#6 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-08-19 08:34:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 465.
+ 1 SYSTEMPATH/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `courses`
+RIGHT JOIN `course_batch` ON `course_batch`.`course_id` = `courses`.`course_id`
+LEFT JOIN `course_categories` ON `courses`.`course_category_id` = `course_categories`.`course_category_id`
+LEFT JOIN `branch` ON `courses`.`branch_id` = `branch`.`branch_id`
+WHERE `courses`.`display` = :courses.display:
+AND `course_batch`.`is_active` = :course_batch.is_active:', [...], false)
+ 3 SYSTEMPATH/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->Index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-08-19 08:34:47 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/var/www/html/v...', 201)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#4 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#6 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#7 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#6 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:246
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#5 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#6 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-08-19 08:34:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 465.
+ 1 SYSTEMPATH/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `courses`
+RIGHT JOIN `course_batch` ON `course_batch`.`course_id` = `courses`.`course_id`
+LEFT JOIN `course_categories` ON `courses`.`course_category_id` = `course_categories`.`course_category_id`
+LEFT JOIN `branch` ON `courses`.`branch_id` = `branch`.`branch_id`
+WHERE `courses`.`display` = :courses.display:
+AND `course_batch`.`is_active` = :course_batch.is_active:', [...], false)
+ 3 SYSTEMPATH/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->Index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-08-19 08:35:18 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/var/www/html/v...', 201)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#4 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#6 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#7 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#6 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:246
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#5 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#6 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-08-19 08:35:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 465.
+ 1 SYSTEMPATH/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `courses`
+RIGHT JOIN `course_batch` ON `course_batch`.`course_id` = `courses`.`course_id`
+LEFT JOIN `course_categories` ON `courses`.`course_category_id` = `course_categories`.`course_category_id`
+LEFT JOIN `branch` ON `courses`.`branch_id` = `branch`.`branch_id`
+WHERE `courses`.`display` = :courses.display:
+AND `course_batch`.`is_active` = :course_batch.is_active:', [...], false)
+ 3 SYSTEMPATH/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->Index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-08-19 08:35:48 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/var/www/html/v...', 201)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#4 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#6 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#7 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#6 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:246
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#5 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#6 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-08-19 08:35:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 465.
+ 1 SYSTEMPATH/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `courses`
+RIGHT JOIN `course_batch` ON `course_batch`.`course_id` = `courses`.`course_id`
+LEFT JOIN `course_categories` ON `courses`.`course_category_id` = `course_categories`.`course_category_id`
+LEFT JOIN `branch` ON `courses`.`branch_id` = `branch`.`branch_id`
+WHERE `courses`.`display` = :courses.display:
+AND `course_batch`.`is_active` = :course_batch.is_active:', [...], false)
+ 3 SYSTEMPATH/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->Index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-08-19 08:36:18 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/var/www/html/v...', 201)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#4 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#6 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#7 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#6 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:246
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#5 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#6 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-08-19 08:36:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 465.
+ 1 SYSTEMPATH/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `courses`
+RIGHT JOIN `course_batch` ON `course_batch`.`course_id` = `courses`.`course_id`
+LEFT JOIN `course_categories` ON `courses`.`course_category_id` = `course_categories`.`course_category_id`
+LEFT JOIN `branch` ON `courses`.`branch_id` = `branch`.`branch_id`
+WHERE `courses`.`display` = :courses.display:
+AND `course_batch`.`is_active` = :course_batch.is_active:', [...], false)
+ 3 SYSTEMPATH/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->Index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-08-19 08:36:48 --> Error connecting to the database: ErrorException: mysqli::real_connect(): php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli::real_co...', '/var/www/html/v...', 201)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#4 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#6 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#7 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+
+Next mysqli_sql_exception: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:201
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(201): mysqli->real_connect('my-db-container', 'ci_user', Object(SensitiveParameterValue), 'sc_short_course...', 3306, '', 0)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#6 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#11 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known in /var/www/html/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:246
+Stack trace:
+#0 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(419): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 /var/www/html/vendor/codeigniter4/framework/system/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 /var/www/html/vendor/codeigniter4/framework/system/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+#5 /var/www/html/app/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+#6 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\Home->Index()
+#7 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /var/www/html/vendor/codeigniter4/framework/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(363): CodeIgniter\CodeIgniter->run()
+#10 /var/www/html/vendor/codeigniter4/framework/system/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /var/www/html/public/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-08-19 08:36:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo for my-db-container failed: Name or service not known
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 465.
+ 1 SYSTEMPATH/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `courses`
+RIGHT JOIN `course_batch` ON `course_batch`.`course_id` = `courses`.`course_id`
+LEFT JOIN `course_categories` ON `courses`.`course_category_id` = `course_categories`.`course_category_id`
+LEFT JOIN `branch` ON `courses`.`branch_id` = `branch`.`branch_id`
+WHERE `courses`.`display` = :courses.display:
+AND `course_batch`.`is_active` = :course_batch.is_active:', [...], false)
+ 3 SYSTEMPATH/Model.php(675): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH/BaseModel.php(1277): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH/Controllers/Home.php(27): CodeIgniter\BaseModel->paginate(20)
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->Index()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

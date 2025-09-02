@@ -1,0 +1,15 @@
+ERROR - 2024-02-08 07:08:21 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for smtpxx.gmail.com failed: No such host is known.  in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1868
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1868)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1868): fsockopen('smtpxx.gmail.co...', 587, NULL, NULL, 60)
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1782): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#8 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-02-08 07:08:21 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-02-08 07:08:21 --> 

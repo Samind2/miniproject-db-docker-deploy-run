@@ -1,0 +1,280 @@
+ERROR - 2024-01-25 07:55:00 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('654259020@webma...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:55:00 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:55:00 --> 
+ERROR - 2024-01-25 07:55:17 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('654259012@webma...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:55:17 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:55:17 --> 
+ERROR - 2024-01-25 07:55:40 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('654259020@webma...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:55:40 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:55:40 --> 
+ERROR - 2024-01-25 07:56:05 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('654259026@webma...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:05 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:05 --> 
+ERROR - 2024-01-25 07:56:26 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('justbest2003@gm...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:26 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:26 --> 
+ERROR - 2024-01-25 07:56:30 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('thiaryut1379@gm...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:30 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:30 --> 
+ERROR - 2024-01-25 07:56:30 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('654259011@webma...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:30 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:30 --> 
+ERROR - 2024-01-25 07:56:33 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('naruapon@webmai...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:33 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:33 --> 
+ERROR - 2024-01-25 07:56:33 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('Ccogerbell5071@...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:33 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:33 --> 
+ERROR - 2024-01-25 07:56:37 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('thiaryut1379@gm...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:37 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:37 --> 
+ERROR - 2024-01-25 07:56:52 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('Ccogerbell5071@...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:56:52 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:56:52 --> 
+ERROR - 2024-01-25 07:58:03 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('burit.srisawan@...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 07:58:03 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 07:58:03 --> 
+CRITICAL - 2024-01-25 07:58:42 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:58:49 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:58:50 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:58:52 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:59:06 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:59:20 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:59:20 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:59:28 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:59:33 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:59:46 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 07:59:58 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 08:00:14 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 08:00:15 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 08:01:17 --> Undefined array key "mobile"
+in APPPATH\Controllers\Account.php on line 31.
+ 1 APPPATH\Controllers\Account.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mobile"', 'APPPATH\\Controllers\\Account.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Account->Info()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-25 08:01:26 --> Email: sendWithMail throwed ErrorException: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): Failed ...', 'C:\\xampp\\htdocs...', 1735)
+#1 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1735): mail('654259017@webma...', '=?UTF-8?Q?SC=20...', '\xE0\xB8\x84\xE0\xB8\xA5\xE0\xB8\xB4\xE0\xB8\x81\xE0\xB8\xA5...', 'Date: Thu, 25 J...', '-f sc@npru.ac.t...')
+#2 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 C:\xampp\htdocs\sc_shortcourses\app\Controllers\ForgotPwd.php(56): CodeIgniter\Email\Email->send()
+#5 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\ForgotPwd->Action()
+#6 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ForgotPwd))
+#7 C:\xampp\htdocs\sc_shortcourses\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\sc_shortcourses\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2024-01-25 08:01:26 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2024-01-25 08:01:26 --> 

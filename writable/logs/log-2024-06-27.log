@@ -1,0 +1,1645 @@
+CRITICAL - 2024-06-27 16:58:15 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:16 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:18 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:19 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:20 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:27 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:28 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:29 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:30 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:31 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:32 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:32 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:33 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:34 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:35 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:36 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:37 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:38 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:39 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:40 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:41 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:42 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:43 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:43 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:44 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:45 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:46 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:47 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:48 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:49 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:50 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:51 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:52 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:53 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:54 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:55 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:56 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:57 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:58 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:58:59 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:00 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:01 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:02 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:02 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:03 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:04 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:05 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:06 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:07 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:08 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:09 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:10 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:11 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:12 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:13 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:14 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:14 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:16 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:17 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:17 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:18 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:19 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:20 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:21 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:22 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:23 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:24 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:25 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:26 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:27 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:28 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:29 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:30 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:30 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:31 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:32 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:33 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:34 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:35 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:36 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:37 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:38 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:39 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:40 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:41 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:42 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:43 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:44 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:45 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:46 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:47 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:47 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:48 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:49 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:50 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:51 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:52 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:53 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:54 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:55 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:56 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:57 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:57 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:58 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 16:59:59 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:00 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:01 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:02 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:03 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:04 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:05 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:06 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:07 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:08 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:09 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:10 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:11 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:12 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:13 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:14 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:15 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:15 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:16 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:17 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:18 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:19 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:20 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:21 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:22 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:23 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:24 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:25 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:26 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:27 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:28 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:29 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:29 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:30 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:31 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:32 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:33 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:34 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:35 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:36 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:37 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:38 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:39 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:40 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:41 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:42 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:43 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:44 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:45 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:46 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:47 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:48 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:49 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:49 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:51 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:51 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:52 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:53 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:54 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:55 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:56 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:57 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:58 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:00:59 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:00 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:01 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:02 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:03 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:04 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:05 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:06 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:07 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:07 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:08 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:09 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:10 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:11 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:12 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:13 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:14 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:15 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:16 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:17 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:18 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:19 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:20 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:21 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:22 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:23 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:24 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:25 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:26 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:27 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:27 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:28 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:29 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:30 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:31 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:32 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:33 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:34 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:35 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:36 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:37 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:37 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:39 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:40 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:41 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:41 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:42 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:43 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:44 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:45 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:47 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:48 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:48 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:49 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:50 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:51 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:52 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:53 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:54 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:55 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:56 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:57 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:58 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:01:59 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:02:00 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:02:01 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:02:02 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-27 17:02:03 --> Undefined array key "username"
+in APPPATH\Controllers\Authorization.php on line 24.
+ 1 APPPATH\Controllers\Authorization.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'APPPATH\\Controllers\\Authorization.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Authorization->Signin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Authorization))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
